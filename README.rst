@@ -37,7 +37,7 @@ The MIT License (MIT)
 
 Copyright (c) 2015 ansible-pecan contributors
 ---------------------------------------------
-*ansible-pecan contributors listed on `AUTHORS file <https://github.com/pecan/ansible-pecan/blob/master/AUTHORS>`_*
+*ansible-pecan contributors listed on* `AUTHORS file <https://github.com/pecan/ansible-pecan/blob/master/AUTHORS>`_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
