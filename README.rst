@@ -23,10 +23,10 @@ Circus.
 The rest of the variables are optional, and are listed here with their default
 values:
 
-* app_home: /opt/{{ app_name }}
-* wsgi_file: wsgi.py
-* wsgi_callable: application
-* branch: "master"
-* use_nginx: true
-* use_ssl: true
-* self_signed: true
+* `app_home: /opt/{{ app_name }}`
+* `wsgi_file: wsgi.py`
+* `wsgi_callable: application`
+* `branch: "master"`
+* `use_nginx: true`
+* `use_ssl: true`
+* `self_signed: true`
