@@ -1,7 +1,7 @@
 ansible-pecan
 =============
 A playbook to deploy Pecan applications. It is initially a bit opinionated
-choosing nginx for the web server and `circus <https://circus.readthedocs.org/en/latest/>`_
+choosing nginx for the web server and `circus <https://circus.readthedocs.io/en/latest/>`_
 for managing the services.
 
 Currently supported distributions:
